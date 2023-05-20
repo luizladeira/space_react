@@ -26,6 +26,8 @@ npm start
 # instalando o sass - css
  npm install --save-dev sass
 
+ Nota: O CSS Modules é um arquivo CSS no qual todos os nomes de classe e nomes de animação têm escopo local por padrão. Isso significa que você pode usar o mesmo nome de classe CSS em arquivos diferentes sem se preocupar com conflitos de nomes.
+
 
 # Link do projeto no VERCEL
 
