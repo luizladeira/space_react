@@ -7,7 +7,7 @@ import novas from '../../assets/icones/novas.png'
 import surpreendaMe from '../../assets/icones/surpreenda-me.png'
 import styles from '../Menu/css/Menu.module.scss'
 
-export default function index() {
+export default function Menu() {
   return (
     <nav className={styles.menu}>
       <ul className={styles.menu__lista}>
