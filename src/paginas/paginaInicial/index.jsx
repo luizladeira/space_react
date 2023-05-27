@@ -1,7 +1,12 @@
 import Cabecalho from "../../componentes/Cabecalho";
+import Banner from "../../componentes/Banner";
 
-export default function PaginaInicial(){
+//fragment - <> </>
+export default function PaginaInicial() {
     return (
-        <Cabecalho/>
+        <>
+            <Cabecalho />
+            <Banner />
+        </>
     )
 }
