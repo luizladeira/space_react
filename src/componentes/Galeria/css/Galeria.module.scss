@@ -83,4 +83,19 @@
     color: $cor-do-texto;
     font-family: $fonte-bold;
   }
+
+
+  &__lista {
+    list-style: none;
+    width: 380px;
+    padding: 0;
+    justify-content: space-between;
+ 
+    li {
+      background-color: $tag-color;
+      padding: 6px 10px;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+  }
 }
