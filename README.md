@@ -30,7 +30,7 @@ npm start
 
 
 # Link do projeto no VERCEL
-Segue o link desse projeto no Vercel - [click aqui](https://space-react-2iy3x3bln-luizladeira.vercel.app/) ou https://space-react-2iy3x3bln-luizladeira.vercel.app/
+Segue o link desse projeto no Vercel - [click aqui](https://space-react-sage.vercel.app/) ou https://space-react-sage.vercel.app/
 
 
 
