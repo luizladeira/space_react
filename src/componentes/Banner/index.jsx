@@ -1,5 +1,5 @@
 import React from 'react'
-import Menu from '../Menu/';
+import Menu from '../Menu';
 import Banner from '../Banner/images/banner.png'
 import styles from '../Banner/css/Banner.module.scss'
 
