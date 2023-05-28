@@ -1,7 +1,7 @@
 import React from 'react'
 import Tags from '../../componentes/Tags'
 import styles from '../Galeria/css/Galeria.module.scss'
-import fotosJson from '../Galeria/json/fotos.json'
+import fotosJson from './json/fotos.json'
 import Cards from './Cards'
 
 export default function Galeria() {
@@ -11,7 +11,6 @@ export default function Galeria() {
                 <h2 >Navegue pela Galeria</h2>
                 <Tags />
                 <Cards itens={fotosJson} styles={styles} />
-
             </section>
         </div>
     )

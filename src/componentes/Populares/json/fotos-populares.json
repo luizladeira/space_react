@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "titulo": "Nome da Foto",
+        "path": "/assets/images/populares/foto-1.png",
+        "alt": "galáxia"
+    },
+    {
+        "id": 2,
+        "titulo": "Nome da Foto",
+        "path": "/assets/images/populares/foto-2.png",
+        "alt": "lua"
+    },
+    {
+        "id": 3,
+        "titulo": "Nome da Foto",
+        "path": "/assets/images/populares/foto-3.png",
+        "alt": "terra"
+    },
+    {
+        "id": 4,
+        "titulo": "Nome da Foto",
+        "path": "/assets/images/populares/foto-4.png",
+        "alt": "nuvem"
+    },
+    {
+        "id": 5,
+        "titulo": "Nome da Foto",
+        "path": "/assets/images/populares/foto-5.png",
+        "alt": "meteoro"
+    }
+]
