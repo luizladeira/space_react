@@ -1,8 +1,8 @@
-import Cabecalho from "../../componentes/Cabecalho";
-import Banner from "../../componentes/Banner";
-import Galeria from "../../componentes/Galeria";
-import Rodape from "../../componentes/Rodape";
-import FotosPopulares from "../../componentes/Populares";
+import Cabecalho from "componentes/Cabecalho";
+import Banner from "componentes/Banner";
+import Galeria from "componentes/Galeria";
+import Rodape from "componentes/Rodape";
+import FotosPopulares from "componentes/Populares";
 
 //fragment - <> </>
 export default function PaginaInicial() {
@@ -12,7 +12,6 @@ export default function PaginaInicial() {
             <Banner />
             <FotosPopulares />
             <Galeria />
-           
             <Rodape />
         </>
     )
