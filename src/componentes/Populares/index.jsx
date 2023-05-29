@@ -2,6 +2,7 @@ import React from 'react'
 import Styles from './css/Populares.module.scss'
 import FotosPopularesJson from './json/fotos-populares.json'
 import botaoAbriModal from '../Galeria/Card/images/open.png'
+import Botao from '../Botao'
 
 export default function Populares() {
   return (
@@ -30,8 +31,8 @@ export default function Populares() {
           }
         </ul>
 
+      <Botao botaoFilho="Ver Mais" />
 
-        <button className={Styles.button}>Ver Mais...</button>
       </section>
     </div>
 
