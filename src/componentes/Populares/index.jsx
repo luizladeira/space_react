@@ -5,6 +5,7 @@ import botaoAbriModal from '../Galeria/Card/images/open.png'
 import Botao from '../Botao'
 
 export default function Populares() {
+
   return (
 
     <div className={Styles.populares}>
@@ -31,7 +32,7 @@ export default function Populares() {
           }
         </ul>
 
-      <Botao botaoFilho="Ver Mais" />
+        <Botao botaoFilho="Ver Mais"/>
 
       </section>
     </div>
